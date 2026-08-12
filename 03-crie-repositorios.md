@@ -20,6 +20,7 @@ git init [nome-do-projeto]
 **O que faz:**
 
 <!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+ele inicia o repositorio localmente.
 
 **Quando usar / observação:**
 
@@ -36,6 +37,7 @@ git clone [url]
 **O que faz:**
 
 <!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+ele clona um repositorio de um origim remota e clona para um reposotorio local, com suas branchs commits, assim sendo que seu eu mexer localmente e der um push vou enviar essas altteracoes para a branch em questao remota.
 
 **Quando usar / observação:**
 
@@ -45,8 +47,8 @@ git clone [url]
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git init [nome-do-projeto]`
-- [ ] 2. `git clone [url]`
+- [ x ] 1. `git init [nome-do-projeto]`
+- [ x ] 2. `git clone [url]`
 
 ---
 
