@@ -18,6 +18,7 @@
 **Para que serve, e quando eu usaria:**
 
 <!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Serve para fazer controle de versionamento de projetos, usaria em todo situação que envolve projeto de sofware para criar um codigo seguro e rastreavel, evitando perdas de desenvolvimento.
 
 **Quando usar / observação:**
 
@@ -32,6 +33,7 @@
 **Para que serve, e quando eu usaria:**
 
 <!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Serve para fazer controle de versionamento de projetos, usaria em todo situação que envolve projeto de sofware para criar um codigo seguro e rastreavel, evitando perdas de desenvolvimento.
 
 **Quando usar / observação:**
 
@@ -46,6 +48,7 @@
 **Para que serve, e quando eu usaria:**
 
 <!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Serve para fazer controle de versionamento de projetos, usaria em todo situação que envolve projeto de sofware para criar um codigo seguro e rastreavel, evitando perdas de desenvolvimento.
 
 **Quando usar / observação:**
 
