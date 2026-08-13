@@ -22,6 +22,7 @@ temp-*
 **O que este arquivo faz:**
 
 <!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+serve para adicionar arquivos que vc gostaria que ficasse fora de rastramento do git.
 
 **Quando usar / observação:**
 
@@ -38,6 +39,8 @@ git ls-files --others --ignored --exclude-standard
 **O que faz:**
 
 <!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+Lista todos os arquivos do projeto que estão sendo ignorados pelo seu gitignore
+Mostra detalhadamente o que o Git está ocultando do monitoramento no momento.
 
 **Quando usar / observação:**
 
@@ -47,8 +50,8 @@ git ls-files --others --ignored --exclude-standard
 
 ## Checklist deste arquivo
 
-- [ ] 1. Arquivo `.gitignore`
-- [ ] 2. `git ls-files --others --ignored --exclude-standard`
+- [ x] 1. Arquivo `.gitignore`
+- [ x] 2. `git ls-files --others --ignored --exclude-standard`
 
 ---
 
