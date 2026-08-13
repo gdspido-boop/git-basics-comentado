@@ -20,6 +20,7 @@ git log
 **O que faz:**
 
 <!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+para ver todos os commits da branch atual
 
 **Quando usar / observação:**
 
@@ -36,7 +37,7 @@ git log --follow [arquivo]
 **O que faz:**
 
 <!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
-
+serve para ver todo hisotirco de commits vinculados a um arquivo especifico
 **Quando usar / observação:**
 
 <!-- TODO: opcional, mas conta ponto. -->
@@ -52,6 +53,7 @@ git diff [primeiro-branch]...[segundo-branch]
 **O que faz:**
 
 <!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+serve para ver as diferencas entre duas branch difentes, assim apracendo todas as suas diffs
 
 **Quando usar / observação:**
 
@@ -68,7 +70,7 @@ git show [commit]
 **O que faz:**
 
 <!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
-
+mostra o que foi feito em tal commit 
 **Quando usar / observação:**
 
 <!-- TODO: opcional, mas conta ponto. -->
@@ -77,10 +79,10 @@ git show [commit]
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git log`
-- [ ] 2. `git log --follow [arquivo]`
-- [ ] 3. `git diff [primeiro-branch]...[segundo-branch]`
-- [ ] 4. `git show [commit]`
+- [ x] 1. `git log`
+- [ x] 2. `git log --follow [arquivo]`
+- [ x] 3. `git diff [primeiro-branch]...[segundo-branch]`
+- [ x] 4. `git show [commit]`
 
 ---
 
